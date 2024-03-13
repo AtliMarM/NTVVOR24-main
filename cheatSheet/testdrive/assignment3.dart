@@ -56,7 +56,7 @@ void main() {
 }
 
   void addItemToList(List<String> groceryList) {
-      print("Bættu við vöru á innkaupalistann eða sláðu inn done til að hætta:");
+      print("Bættu við vöru á innkaupalistann:");
       while (true) {
       String? item = stdin.readLineSync();
       if(item == 'done') {
@@ -74,7 +74,7 @@ void main() {
 
   void viewList(List<String> groceryList) {
     if (groceryList.isEmpty) {
-      print("Þú hefur ekki valið vöru");
+      print("Þú hefur ekki valið vöru, sláðu inn 1 og bættu við vöru/m");
     } else {
       for (var item in groceryList) {
         if (item != '2')
