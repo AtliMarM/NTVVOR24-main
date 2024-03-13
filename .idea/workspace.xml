@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8495f97b-0cfa-401c-98c0-9be09b5225f2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2cb4muxLlgdQGa1pgBM4Or0wp4F" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Dart Command Line App.7.Functions-6.mars.dart.executor": "Run",
+    "Dart Command Line App.BOSSchallenge.dart.executor": "Run",
+    "Dart Command Line App.BOSSchallengeSvar.dart.executor": "Run",
+    "Dart Command Line App.Upprifjun-Timi6-4.mars.dart.executor": "Run",
+    "Dart Command Line App.assignment1.dart.executor": "Run",
+    "Dart Command Line App.assignment1.vol2.dart.executor": "Run",
+    "Dart Command Line App.assignment2-vol2.dart.executor": "Run",
+    "Dart Command Line App.assignment2.dart.executor": "Run",
+    "Dart Command Line App.assignment3.dart.executor": "Run",
+    "Dart Command Line App.cehatSheet_03.dart.executor": "Run",
+    "Dart Command Line App.challenge6.dart.executor": "Run",
+    "Dart Command Line App.cheatSheet_06.dart.executor": "Run",
+    "Dart Command Line App.cheatsheet02.dart.executor": "Run",
+    "Dart Command Line App.cheatsheet05.dart.executor": "Run",
+    "Dart Command Line App.class01.dart.executor": "Run",
+    "Dart Command Line App.class03.dart.executor": "Run",
+    "Dart Command Line App.class04.dart.executor": "Run",
+    "Dart Command Line App.class08-11.mars.dart.executor": "Run",
+    "Dart Command Line App.plisvirka.dart.executor": "Run",
+    "Dart Command Line App.prufa-timi3.dart.executor": "Run",
+    "Dart Command Line App.timi6.4mars.dart.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/atlimagnusson/Documents/NTV/NTVVOR24-main"
+  }
+}]]></component>
+  <component name="RunManager" selected="Dart Command Line App.assignment3.dart">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="7.Functions-6.mars.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/cheatSheet/7.Functions-6.mars.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Upprifjun-Timi6-4.mars.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/cheatSheet/testdrive/Upprifjun-Timi6-4.mars.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment3.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/cheatSheet/testdrive/assignment3.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cheatSheet_06.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/cheatSheet/cheatSheet_06.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class08-11.mars.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/cheatSheet/class08-11.mars.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.assignment3.dart" />
+        <item itemvalue="Dart Command Line App.class08-11.mars.dart" />
+        <item itemvalue="Dart Command Line App.7.Functions-6.mars.dart" />
+        <item itemvalue="Dart Command Line App.Upprifjun-Timi6-4.mars.dart" />
+        <item itemvalue="Dart Command Line App.cheatSheet_06.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
