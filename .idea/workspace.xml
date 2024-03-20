@@ -55,6 +55,7 @@
     "Dart Command Line App.assignment3.dart.executor": "Run",
     "Dart Command Line App.cehatSheet_03.dart.executor": "Run",
     "Dart Command Line App.challenge6.dart.executor": "Run",
+    "Dart Command Line App.chatgptbilasala.dart.executor": "Run",
     "Dart Command Line App.cheatSheet_06.dart.executor": "Run",
     "Dart Command Line App.cheatsheet02.dart.executor": "Run",
     "Dart Command Line App.cheatsheet05.dart.executor": "Run",
@@ -62,6 +63,7 @@
     "Dart Command Line App.class03.dart.executor": "Run",
     "Dart Command Line App.class04.dart.executor": "Run",
     "Dart Command Line App.class08-11.mars.dart.executor": "Run",
+    "Dart Command Line App.class09.dart.executor": "Run",
     "Dart Command Line App.plisvirka.dart.executor": "Run",
     "Dart Command Line App.prufa-timi3.dart.executor": "Run",
     "Dart Command Line App.timi6.4mars.dart.executor": "Run",
@@ -71,7 +73,7 @@
     "last_opened_file_path": "/Users/atlimagnusson/Documents/NTV/NTVVOR24-main"
   }
 }]]></component>
-  <component name="RunManager" selected="Dart Command Line App.assignment3.dart">
+  <component name="RunManager" selected="Dart Command Line App.class09.dart">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -87,23 +89,23 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="Upprifjun-Timi6-4.mars.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/cheatSheet/testdrive/Upprifjun-Timi6-4.mars.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="assignment3.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/cheatSheet/testdrive/assignment3.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="cheatSheet_06.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/cheatSheet/cheatSheet_06.dart" />
+    <configuration name="chatgptbilasala.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/cheatSheet/chatgptbilasala.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration name="class08-11.mars.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/cheatSheet/class08-11.mars.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class09.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/cheatSheet/class09.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.class09.dart" />
+        <item itemvalue="Dart Command Line App.chatgptbilasala.dart" />
         <item itemvalue="Dart Command Line App.assignment3.dart" />
         <item itemvalue="Dart Command Line App.class08-11.mars.dart" />
         <item itemvalue="Dart Command Line App.7.Functions-6.mars.dart" />
-        <item itemvalue="Dart Command Line App.Upprifjun-Timi6-4.mars.dart" />
-        <item itemvalue="Dart Command Line App.cheatSheet_06.dart" />
       </list>
     </recent_temporary>
   </component>
